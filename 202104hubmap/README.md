@@ -21,3 +21,8 @@ https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/201816
 ・アンサンブルと、アンサンブルの元データ作り  
 ・import albumentations as A  
 
+●  Don't try to load full TIFF image in memory, it will crash for some. Use rasterio or similar library to load slices from disk to feed your model.  
+Keep your predictions memory friendly, float16 if you need to maintain probabilities, boolean for mask.  
+Persist data on disk if needed and if it's acceptable from runtime limit.  
+https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/215598
+
