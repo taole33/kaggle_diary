@@ -6,18 +6,18 @@ Your challenge is to detect functional tissue units (FTUs) across different tiss
   
   
   
-ラベルのミスについて、コメントで言及あり。  
+●ラベルのミスについて、コメントで言及あり。  
 対処する必要あり  
 https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/198116  
   
   
   
-ラベルが少しシフトしてて、それを修正しないといけないみたい。  
+●ラベルが少しシフトしてて、それを修正しないといけないみたい。  
 （古い情報の可能性あり。datasetが修正されていないか確認。）  
 https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/201816   
   
   
-やることメモ
-・アンサンブルと、アンサンブルの元データ作り
+●やることメモ  
+・アンサンブルと、アンサンブルの元データ作り  
 ・import albumentations as A  
 
