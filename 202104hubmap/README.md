@@ -20,6 +20,8 @@ https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/201816
 ●やることメモ  
 ・アンサンブルと、アンサンブルの元データ作り  
 ・import albumentations as A  
+・でっかいデータが数枚あるので、それをラベルとリンクさせながら分割させる→cross validationを作成する  
+・
 
 ●  Don't try to load full TIFF image in memory, it will crash for some. Use rasterio or similar library to load slices from disk to feed your model.  
 Keep your predictions memory friendly, float16 if you need to maintain probabilities, boolean for mask.  
