@@ -1,0 +1,20 @@
+## コンペの概要  
+
+Your smartphone goes everywhere with you—whether driving to the grocery store or shopping for holiday gifts. With your permission, apps can use your location to provide contextual information. You might get driving directions, find a store, or receive alerts for nearby promotions. These handy features are enabled by GPS, which requires outdoor exposure for the best accuracy. Yet, there are many times when you’re inside large structures, such as a shopping mall or event center. Accurate indoor positioning, based on public sensors and user permission, allows for a great location-based experience even when you aren’t outside.  
+食料品店に車で行く場合でも、ホリデーギフトを買う場合でも、スマートフォンはどこにでも持ち運びできます。あなたの許可があれば、アプリはあなたの場所を使用してコンテキスト情報を提供できます。運転ルートを取得したり、お店を見つけたり、近くのプロモーションのアラートを受け取ったりする場合があります。これらの便利な機能はGPSによって有効になり、最高の精度を得るには屋外での露出が必要です。それでも、ショッピングモールやイベントセンターなどの大きな建物の中にいることはよくあります。公共のセンサーとユーザーの許可に基づく正確な屋内測位により、外出していないときでもロケーションベースの優れたエクスペリエンスが可能になります。  
+  
+Current positioning solutions have poor accuracy, particularly in multi-level buildings, or generalize poorly to small datasets. Additionally, GPS was built for a time before smartphones. Today’s use cases often require more granularity than is typically available indoors.  
+現在のポジショニングソリューションは、特にマルチレベルの建物では精度が低いか、小さなデータセットへの一般化が不十分です。さらに、GPSはスマートフォンよりも前から構築されていました。今日のユースケースでは、通常、屋内で利用できるよりも細かい粒度が必要になることがよくあります。  
+
+In this competition, your task is to predict the indoor position of smartphones based on real-time sensor data, provided by indoor positioning technology company XYZ10 in partnership with Microsoft Research. You'll locate devices using “active” localization data, which is made available with the cooperation of the user. Unlike passive localization methods (e.g. radar, camera), the data provided for this competition requires explicit user permission. You'll work with a dataset of nearly 30,000 traces from over 200 buildings.  
+このコンテストでのあなたの仕事は、MicrosoftResearchと提携して屋内測位技術会社XYZ10から提供されたリアルタイムセンサーデータに基づいてスマートフォンの屋内位置を予測することです。ユーザーの協力を得て利用できる「アクティブな」ローカリゼーションデータを使用してデバイスを見つけます。パッシブローカリゼーション方法（レーダー、カメラなど）とは異なり、このコンテストで提供されるデータには、明示的なユーザー許可が必要です。 200を超える建物からの約30,000のトレースのデータセットを使用します。
+
+If successful, you’ll contribute to research with broad-reaching possibilities, including industries like manufacturing, retail, and autonomous devices. With more accurate positioning, existing location-based apps could even be improved. Perhaps you’ll even see the benefits yourself the next time you hit the mall.
+成功すれば、製造、小売、自律型デバイスなどの業界を含む、幅広い可能性を秘めた研究に貢献できます。より正確なポジショニングにより、既存のロケーションベースのアプリをさらに改善することができます。おそらく、次にモールに行くときに、自分でメリットを確認することもできます。
+
+XYZ10 is a rising indoor positioning technology company in China. Since 2017, XYZ10 has been accumulating a privacy-sensitive indoor location dataset of WiFi, geomagnetic, and Bluetooth signatures with ground truths from nearly 1,000 buildings.
+
+Microsoft Research is the research subsidiary of Microsoft. Its goal is to advance state-of-the-art computing and solve difficult world research-motivated competition problems through technological innovation in collaboration with academic, government, and industry researchers.
+XYZ10は、中国で注目を集めている屋内測位技術企業です。 2017年以来、XYZ10は、プライバシーに配慮したWiFi、地磁気、Bluetoothの署名の屋内位置データセットを、1,000近くの建物からのグラウンドトゥルースとともに蓄積してきました。
+
+Microsoft Researchは、Microsoftの研究子会社です。その目標は、最先端のコンピューティングを進歩させ、学術、政府、および業界の研究者と協力して技術革新を通じて、世界の研究に動機付けられた困難な競争問題を解決することです。
