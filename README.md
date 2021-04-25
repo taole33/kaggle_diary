@@ -4,6 +4,8 @@
 ## 2021.04.25  
   https://qiita.com/everylittle/items/d90ac57cce4aabb26f16  
   Tensorオブジェクトの扱い
+  https://tensorflow.classcat.com/category/semantic-segmentation/
+  セグメンテーションチュートリアル
 
 
 ## 2021.04.24      
