@@ -28,3 +28,8 @@ Keep your predictions memory friendly, float16 if you need to maintain probabili
 Persist data on disk if needed and if it's acceptable from runtime limit.  
 https://www.kaggle.com/c/hubmap-kidney-segmentation/discussion/215598
 
+
+●Unetを使ったモデルの解説
+https://pyhaya.hatenablog.com/entry/2019/05/12/132727  
+と論文https://arxiv.org/abs/1505.04597  
+
