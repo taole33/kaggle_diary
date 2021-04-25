@@ -35,3 +35,4 @@ https://pyhaya.hatenablog.com/entry/2019/05/12/132727
 実装https://github.com/Hayashi-Yudai/ML_models/tree/master/UNet  
 実装https://github.com/tks10/segmentation_unet
 
+## 画像の分割処理、結合処理が難しい  
