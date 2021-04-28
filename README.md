@@ -1,6 +1,11 @@
 # kaggle_diary
 どっかのサイトにkaggle_diaryを作ると便利と書いてあってので。
 
+## 2021.04.28  
+　dataframeとdetaframeを結合する処理    
+  SQLでいうjoinみたいな処理ができる。lefter,righter,inner,outer  
+  https://note.nkmk.me/python-pandas-merge-join/
+
 ## 2021.04.26
   for n_files, file in enumerate(train_files):  
   ディレクトリ以下のファイル名を取得するのに便利。  
