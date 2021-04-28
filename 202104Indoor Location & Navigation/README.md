@@ -1,9 +1,16 @@
 ## my_memo
 ![image](https://user-images.githubusercontent.com/20613753/116400976-a77bbe00-a865-11eb-8648-81acb09670cf.png)
 ・やること  
-・timeの差は大事なはず（distance = time * speed ）→特徴量に入れる
+・timeの差は大事なはず（distance = time * speed ）→特徴量に入れる  
+・waypointがstartとendしか取り込めていないみたい。それ以外のがちゃんと取り込めているか確認。
+```
+        train_meta_sub.loc[i,'wifi_ssid']=feature.wifi.iloc[0]['ssid']
+        train_meta_sub.loc[i,'wifi_bssid']=feature.wifi.iloc[0]['bssid']
+        train_meta_sub.loc[i,'wifi_rssi']=feature.wifi.iloc[0]['rssi']
+        train_meta_sub.loc[i,'wifi_frequency']=feature.wifi.iloc[0]['frequency']
+```
 
-
+で指定したwifiは一番近いwifiが返ってくる
 
 ## コンペの概要  
 
