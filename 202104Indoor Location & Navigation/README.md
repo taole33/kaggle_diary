@@ -1,4 +1,7 @@
 ## my_memo
+![image](https://user-images.githubusercontent.com/20613753/116527397-95595880-a915-11eb-8500-f550bdd06cfc.png)
+
+
 ![image](https://user-images.githubusercontent.com/20613753/116400976-a77bbe00-a865-11eb-8648-81acb09670cf.png)
 ・やること  
 ・timeの差は大事なはず（distance = time * speed ）→特徴量に入れる  
@@ -10,7 +13,9 @@
         train_meta_sub.loc[i,'wifi_frequency']=feature.wifi.iloc[0]['frequency']
 ```
 
-で指定したwifiは一番近いwifiが返ってくる
+で指定したwifiは[0][1][2]・・・の順に近いwifiが入ってる
+
+
 
 ## コンペの概要  
 
