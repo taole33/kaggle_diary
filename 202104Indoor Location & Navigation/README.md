@@ -12,6 +12,10 @@
 
 で指定したwifiは[0][1][2]・・・の順に近いwifiが入ってる
 
+https://www.kaggle.com/rafaelcartenet/how-to-use  
+範囲外を外れたらFalseを返すデータセット  
+  
+wifiポイントの高さと、スマホの高さの差を出すことで精度が上がりそう  
 
 
 ## コンペの概要  
