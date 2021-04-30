@@ -1,4 +1,24 @@
-## my_memo
+## 2020.04.30
+https://www.kaggle.com/rafaelcartenet/how-to-use  
+範囲外を外れたらFalseを返すデータセット  
+  
+wifiポイントの高さと、スマホの高さの差を出すことで精度が上がりそう  
+
+XYZは時間の経過に掛け算することで、移動の距離と方向を測ることができる。  
+（最初の位置がわかればこのアプローチは非常に有効）  
+上のデータセットと組み合わせれば、色々使えるかも知れない。
+
+![image](https://user-images.githubusercontent.com/20613753/116643068-3b0ad700-a9ab-11eb-85a6-6c0e78750bf8.png)
+
+![image](https://user-images.githubusercontent.com/20613753/116643037-24fd1680-a9ab-11eb-8f03-b7e6cb611f8e.png)
+
+![image](https://user-images.githubusercontent.com/20613753/116642997-05fe8480-a9ab-11eb-8604-c2b09fe4deef.png)
+
+
+ibeaconはルームレベルしか特定できない  
+https://www.kaggle.com/iamleonie/ibeacon-feasibility-analysis
+
+## 2020.04.29
 
 ![image](https://user-images.githubusercontent.com/20613753/116400976-a77bbe00-a865-11eb-8648-81acb09670cf.png)
 ・やること  
@@ -12,10 +32,7 @@
 
 で指定したwifiは[0][1][2]・・・の順に近いwifiが入ってる
 
-https://www.kaggle.com/rafaelcartenet/how-to-use  
-範囲外を外れたらFalseを返すデータセット  
-  
-wifiポイントの高さと、スマホの高さの差を出すことで精度が上がりそう  
+
 
 
 ## コンペの概要  
