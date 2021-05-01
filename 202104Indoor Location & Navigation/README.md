@@ -2,8 +2,11 @@
 いまんのとこのリーク情報  
 https://www.kaggle.com/c/indoor-location-navigation/discussion/234543  
 
-・xyzのaccuracy、uncali、biasってなんだ？なんか補正かけないといけないかも。
-・磁場も補正かける
+・xyzのaccuracy、uncali、biasってなんだ？なんか補正かけないといけないかも。  
+・磁場も補正かける  
+・xとyの位置は目的変数が複数になっているので、それぞれを一体的に取り扱う。？  
+　例えば8桁の数字として出しておいて、x=4桁、y=桁で、例の評価式で評価する。最後の段階でxとyを分割する。など。
+
 
 ## 2021.04.30
 https://www.kaggle.com/rafaelcartenet/how-to-use  
