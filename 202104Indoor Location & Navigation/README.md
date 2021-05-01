@@ -1,4 +1,11 @@
-## 2020.04.30
+## 2021.05.01
+いまんのとこのリーク情報  
+https://www.kaggle.com/c/indoor-location-navigation/discussion/234543  
+
+・xyzのaccuracy、uncali、biasってなんだ？なんか補正かけないといけないかも。
+・磁場も補正かける
+
+## 2021.04.30
 https://www.kaggle.com/rafaelcartenet/how-to-use  
 範囲外を外れたらFalseを返すデータセット  
   
