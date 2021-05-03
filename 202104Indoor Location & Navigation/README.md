@@ -1,6 +1,12 @@
 ## 2021.05.03
-![image](https://user-images.githubusercontent.com/20613753/116872068-39157200-ac50-11eb-8395-77a16eb7b33e.png)
-このへんに複数の目的変数のモデルの構築の仕方が載ってる。
+![image](https://user-images.githubusercontent.com/20613753/116872068-39157200-ac50-11eb-8395-77a16eb7b33e.png)  
+このへんに複数の目的変数のモデルの構築の仕方が載ってる。  
+  
+https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ja  
+ここにandroidのmotionsenserの詳細が載ってる  
+![image](https://user-images.githubusercontent.com/20613753/116872977-dcb35200-ac51-11eb-9338-2a6e7964871a.png)
+  
+
 
 ## 2021.05.01
 いまんのとこのリーク情報  
