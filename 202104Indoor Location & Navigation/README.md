@@ -1,3 +1,9 @@
+## 2021.05.04
+
+![image](https://user-images.githubusercontent.com/20613753/116960662-0e70fb00-acdc-11eb-9d97-0129e62c2752.png)
+
+
+
 ## 2021.05.03
 ![image](https://user-images.githubusercontent.com/20613753/116872068-39157200-ac50-11eb-8395-77a16eb7b33e.png)  
 このへんに複数の目的変数のモデルの構築の仕方が載ってる。  
