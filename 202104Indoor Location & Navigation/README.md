@@ -1,6 +1,10 @@
 ## 2021.05.04
 
+
 ![image](https://user-images.githubusercontent.com/20613753/116960662-0e70fb00-acdc-11eb-9d97-0129e62c2752.png)
+
+![image](https://user-images.githubusercontent.com/20613753/117075744-4aee3680-ad70-11eb-99cc-a000e7beb0c1.png)
+single positional indexer is out-of-bounds
 
 
 
