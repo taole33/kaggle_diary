@@ -1,6 +1,10 @@
 # kaggle_diary
 どっかのサイトにkaggle_diaryを作ると便利と書いてあってので。
 
+## 2021.05.06  
+  非常に役立つチェックポイント  
+  https://naotaka1128.hatenadiary.jp/entry/kaggle-compe-tips
+
 ## 2021.04.28  
 　dataframeとdetaframeを結合する処理    
   SQLでいうjoinみたいな処理ができる。lefter,righter,inner,outer  
