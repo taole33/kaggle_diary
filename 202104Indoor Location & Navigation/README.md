@@ -1,5 +1,5 @@
 ## 2021.05.07  
-  gyroとかはuncliの方を使った方がよさそう。  
+  gyroとかはuncliではなくcalibratedの方を使った方がよさそう。  
   https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ja  
   calibrated_x ~= uncalibrated_x - bias_estimate_x
     
