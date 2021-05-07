@@ -7,6 +7,12 @@
   
   アンサンブルでは、submitのデータの可視化を行って、他のモデルと比べておかしな値のデータは採用しないなど工夫する。
   
+  wifiのデータ  
+  https://developer.android.com/reference/android/net/wifi/ScanResult.html  
+  bluetoothのデータ  
+  https://developer.android.com/reference/android/bluetooth/le/ScanRecord
+  
+  
 ## 2021.05.04
 
 
