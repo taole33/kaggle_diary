@@ -1,5 +1,13 @@
 # kaggle_diary
-どっかのサイトにkaggle_diaryを作ると便利と書いてあってので。
+どっかのサイトにkaggle_diaryを作ると便利と書いてあったので。
+
+## 2021.05.09  
+  Pythonのioモジュールについて  
+  https://runebook.dev/ja/docs/python/library/io  
+  Pythonのpickleモジュール  
+  https://qiita.com/hatt0519/items/f1f4c059c28cb1575a93  
+  shapelyについて（地図上の二点間の距離や最短距離を出したりする）  
+  https://www.gis-py.com/entry/shapely
 
 ## 2021.05.06  
   非常に役立つチェックポイント  
